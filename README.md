@@ -3,6 +3,8 @@
 Hi, I'm Oliver a Software Engineer working on cool stuff at Cadence, in my spare time I look into procedural terrain modelling.
 I've also played a little too much Counter-Strike over the last few years so have a few things going on todo with that.
 
+_“You certainly usually find something, if you look, but it is not always quite the something you were after.”_ - J.R.R. Tolkien, The Hobbit
+
 ## About Me
 - 🔭 I’m currently working on @Open-Terra as well as ColorLib.
 - 🌱 I’m currently learning Rust and Latin 🤷.
