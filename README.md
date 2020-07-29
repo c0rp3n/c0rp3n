@@ -10,7 +10,7 @@ _“You certainly usually find something, if you look, but it is not always quit
 - 🌱 I’m currently learning Rust and Latin 🤷.
 
 ## Contact
-- Twitter: @c0rp3n
+- Twitter: [@c0rp3n](https://twitter.com/c0rp3n)
 - Email: ojhitchcock@gmail.com
 
 <!--
