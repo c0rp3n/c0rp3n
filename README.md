@@ -3,6 +3,7 @@
 Hi, I'm Oliver a Software Engineer at Cadence working on EDA tools.
 
 ## Notable Projects
+- [Cento](https://github.com/c0rp3n/cento) - A library for a Corner Stitching data structure.
 - [ColorLib](https://github.com/c0rp3n/colorlib-sm) - An optimised color tag library for CS:GO server plugins.
   - [ColorLib - Checker](https://github.com/c0rp3n/colorlib-check) - A python script for parsing and checking for the correct format of color tags.
   - [ColorLib - Color Generator](https://github.com/c0rp3n/colorlib-gen) - A code generation tool for mapping color names to escape codes.
