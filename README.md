@@ -2,7 +2,7 @@
 
 Hi, I'm Oliver a Lead Software Engineer at Cadence working on EDA tools.
 
-## Work Areas:
+## Work Areas
 - Ensuring your mile high schematics load in <1s.
 - Legacy code archeology.
 - Finding new ways to draw schematics badly.
