@@ -12,10 +12,12 @@ Hi, I'm Oliver a Lead Software Engineer at Cadence working on EDA tools.
 - [ColorLib](https://github.com/c0rp3n/colorlib-sm) - An optimised color tag library for CS:GO server plugins.
   - [Color Generator](https://github.com/c0rp3n/colorlib-gen) - A code generation tool for mapping color names to escape codes.
   - [Checker](https://github.com/c0rp3n/colorlib-check) - A python script for parsing and checking for the correct format of color tags.
+- Sourcemod Plugins and TTT
+  - [Trouble in Terrorist Town (CS:GO)](https://github.com/c0rp3n/TroubleinTerroristTown) - *Former* contributor (RDM Plugin, misc fixes, custom roles, ...).
+  - [CLWO TTT](https://github.com/classywolves/clwo-ttt) - *Former* developer and maintainer of CLWO's TTT server and plugins.
+  - [Jump Stats CS:GO](https://github.com/c0rp3n/jump-stats-csgo) - Updated version of [ceLoFaN](https://github.com/ceLoFaN/jump-stats-csgo)'s jump stats plugin for CLWO TTT.
 - [Jitter](https://github.com/c0rp3n/jitr) - A Rust program for shuffling lines of a text file.
-- [Trouble in Terrorist Town (CS:GO)](https://github.com/c0rp3n/TroubleinTerroristTown) - *Former* contributor (RDM Plugin, misc fixes, custom roles, ...).
 - [Basic-V](https://github.com/c0rp3n/basic-v) - A *basic* BASIC compiler to Risc-V assembly.
-- [Jump Stats CS:GO](https://github.com/c0rp3n/jump-stats-csgo) - Updated version of [ceLoFaN](https://github.com/ceLoFaN/jump-stats-csgo)'s jump stats plugin for CLWO TTT.
 
 ## Contact
 - Twitter: [@c0rp3n](https://twitter.com/c0rp3n)
